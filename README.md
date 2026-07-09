@@ -135,11 +135,14 @@ Expand sales efforts in lower-performing cities.
 
 ## Screenshot / Domos
 To so what a dashboard look like 
-Executive   Dashboard:           https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Executive_Dashboard.jpeg
-Regional  Performance  Analysis:   https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Regional_Performance.jpeg
-Product  Performance  Analysis:  https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Product_Analysis.jpeg
-City  Sales  Analysis:           github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/City_Sales.jpeg     
-
+##Executive   Dashboard:   
+https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Executive_Dashboard.jpeg
+##Regional  Performance  Analysis: 
+https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Regional_Performance.jpeg
+##Product  Performance  Analysis: 
+https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Product_Analysis.jpeg
+##City  Sales  Analysis:          
+https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/City_Sales.jpeg
 
 
 
