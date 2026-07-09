@@ -136,7 +136,7 @@ Expand sales efforts in lower-performing cities.
 ## Screenshot / Domos
 To so what a dashboard look like
 
-## Executive  Information:   
+## Executive  Dashboard:   
 https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Executive_Dashboard.jpeg
 ## Regional  Performance  Analysis: 
 https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Regional_Performance.jpeg
