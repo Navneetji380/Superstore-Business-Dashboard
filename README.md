@@ -134,8 +134,10 @@ Optimize inventory using demand analysis.
 Expand sales efforts in lower-performing cities.
 
 ## Screenshot / Domos
-To so what a dashboard look like 
+To so what a dashboard look like
 
+## Executive  Information:   
+https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Executive_Dashboard.jpeg
 ## Regional  Performance  Analysis: 
 https://github.com/Navneetji380/Superstore-Business-Dashboard/blob/main/Regional_Performance.jpeg
 ## Product  Performance  Analysis: 
