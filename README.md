@@ -132,3 +132,10 @@ Strengthen marketing in low-performing regions.
 Reduce product return rates.
 Optimize inventory using demand analysis.
 Expand sales efforts in lower-performing cities.
+
+## Screenshot / Domos
+To so what a dashboard look like 
+Executive Dashboard  
+
+
+
